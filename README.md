@@ -87,9 +87,6 @@ I'd like to thank you to
 
 ---
 
-# Additional Info:
-I want to apologize for the lack of commits and the overall state of my project, which should have been a lot better. Unfortunately I was experiencing some serious familiy issues in the last two months and was not able to commit any time to it until the very last moment, when I had to build the project for a single day.
-
 # Author Info
 
 - Facebook - [Stoyan Peev](https://www.facebook.com/StoqnIlievPeev/)
